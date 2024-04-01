@@ -2,13 +2,6 @@
 
 This project involves exploring COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) covering the period from February 20, 2020, to July 6, 2022. The data is analyzed using Microsoft SQL Server Management Studio to derive insights into the global impact of the pandemic.
 
-## Contents
-1. [Introduction](#introduction)
-2. [Data Exploration](#data-exploration)
-3. [Queries and Analysis](#queries-and-analysis)
-4. [Views](#views)
-5. [Conclusion](#conclusion)
-
 ## Introduction
 The COVID-19 pandemic has significantly impacted global health, economies, and societies. This portfolio project aims to showcase the skills of a data analyst by exploring and analyzing COVID-19 data using SQL queries. The project utilizes data from Our World in Data, focusing on cases, deaths, vaccinations, and population statistics.
 
